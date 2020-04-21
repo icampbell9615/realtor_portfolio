@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import HEADER from './components/HEADER';
 import SERVICES from './components/SERVICES';
+import CONTACT from './components/CONTACTUS'
 import ABOUTUS from './components/ABOUTUS.jsx'
 import PAST from './components/PASTPROPERTIES';
 
@@ -11,7 +12,8 @@ function App() {
     <HEADER />
     <SERVICES />
     <ABOUTUS />
-    <PAST/>
+    <PAST />
+    <CONTACT />
     </React.Fragment>
   );
 }
