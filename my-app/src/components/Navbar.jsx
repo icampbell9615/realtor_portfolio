@@ -38,33 +38,3 @@ const NavBar = () => {
 };
 
 export default NavBar;
-
-// {/*    <div className="collapse navbar-collapse">*/}
-// {/*        <ul className="navbar-nav mr-auto">*/}
-// {/*            <li className="nav-item">*/}
-// {/*                <ScrollLink to="Home" spy={true} smooth={true} duration={800} className='nav-link ScrollLink text-white' activeClass="active">*/}
-// {/*                    Home*/}
-// {/*                </ScrollLink>*/}
-// {/*            </li>*/}
-// {/*            <li className="nav-item">*/}
-// {/*                <ScrollLink to="Services" spy={true} smooth={true} duration={800} className='nav-link ScrollLink text-white' activeClass="active">*/}
-// {/*                    Services*/}
-// {/*                </ScrollLink>*/}
-// {/*            </li>*/}
-// {/*            <li className="nav-item">*/}
-// {/*                <ScrollLink to="AboutUs" spy={true} smooth={true} duration={800} className='nav-link ScrollLink text-white' activeClass="active">*/}
-// {/*                    About Us*/}
-// {/*                </ScrollLink>*/}
-// {/*            </li>*/}
-// {/*            <li className="nav-item">*/}
-// {/*                <ScrollLink to="Past" spy={true} smooth={true} duration={800} className='nav-link ScrollLink text-white' activeClass="active">*/}
-// {/*                    Past Properties*/}
-// {/*                </ScrollLink>*/}
-// {/*            </li>*/}
-// {/*            <li className="nav-item">*/}
-// {/*                <ScrollLink to="contact" spy={true} smooth={true} duration={800} className='nav-link ScrollLink text-white' activeClass="active">*/}
-// {/*                    Contact*/}
-// {/*                </ScrollLink>*/}
-// {/*            </li>*/}
-// {/*        </ul>*/}
-// {/*</div>*/}

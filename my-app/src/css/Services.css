@@ -1,0 +1,20 @@
+.space_between_heading{
+    margin-top: 5%;
+}
+
+.icon-color {
+    background:-moz-linear-gradient(-29deg,#283c86,#45a247);
+    background: linear-gradient(-29deg,#283c86,#45a247);
+    background: -webkit-linear-gradient(-29deg,#283c86,#45a247);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.icon_size{
+    width: 50px;
+    height: 50px;
+}
+
+.list_above_gap{
+    margin-top: 20px;
+}

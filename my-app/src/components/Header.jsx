@@ -72,30 +72,6 @@ const Header = () => {
                             margin: 'auto',
                             width: '100%'
                         }} alt=""/>
-                        {/*<img className="" src={require("../images/house5.jpg")} style={{*/}
-                        {/*    display: 'block',*/}
-                        {/*    height: '100%',*/}
-                        {/*    margin: 'auto',*/}
-                        {/*    width: '100%'*/}
-                        {/*}} alt=""/>*/}
-                        {/*<img className="" src={require("../images/house6.jpg")} style={{*/}
-                        {/*    display: 'block',*/}
-                        {/*    height: '100%',*/}
-                        {/*    margin: 'auto',*/}
-                        {/*    width: '100%'*/}
-                        {/*}} alt=""/>*/}
-                        {/*<img className="" src={require("../images/house7.jpg")} style={{*/}
-                        {/*    display: 'block',*/}
-                        {/*    height: '100%',*/}
-                        {/*    margin: 'auto',*/}
-                        {/*    width: '100%'*/}
-                        {/*}} alt=""/>*/}
-                        {/*<img className="" src={require("../images/house8.jpg")} style={{*/}
-                        {/*    display: 'block',*/}
-                        {/*    height: '100%',*/}
-                        {/*    margin: 'auto',*/}
-                        {/*    width: '100%'*/}
-                        {/*}} alt=""/>*/}
                     </Carousel>
                 </div>
             </Element>
