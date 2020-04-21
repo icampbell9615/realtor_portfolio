@@ -1,0 +1,22 @@
+.ScrollLink {
+    transition: 0.2s ease-in-out;
+    color: white;
+    /*font-size: 20px;*/
+    text-decoration: none;
+    /*border-top: 4px solid transparent;*/
+    /*border-bottom: 4px solid transparent;*/
+    /*font-size: 17px;*/
+}
+.ScrollLink:hover {
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+}
+
+.fixed-top.scrolled {
+    background-color: #fff !important;
+    transition: background-color 200ms linear;
+}
+
+.fixed-top.scrolled .nav-link {
+    color:#555;
+}
