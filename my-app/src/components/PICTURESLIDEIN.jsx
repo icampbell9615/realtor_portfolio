@@ -1,6 +1,6 @@
 import React from 'react';
-import '../css/Header.css';
-import '../css/About_Us.css';
+import '../css/HEADER.css';
+import '../css/ABOUTUS.css';
 import {AnimatedOnScroll} from "react-animated-css-onscroll";
 // import Fade from 'react-reveal/Fade';
 
@@ -18,7 +18,7 @@ const PICTURE = (props) => {
     );
 };
 
-const PAST_PICTURE = (props) => {
+const PASTPICTURE = (props) => {
     return (
         <React.Fragment>
                 <div className="justify-content-center topPadding" style={{height: "100%", width: "100%"}}>
@@ -31,4 +31,4 @@ const PAST_PICTURE = (props) => {
 
     );
 };
-export {PICTURE, PAST_PICTURE}
+export {PICTURE, PASTPICTURE}

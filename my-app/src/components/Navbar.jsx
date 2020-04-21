@@ -1,11 +1,11 @@
 import React from 'react';
-import '../css/Navbar.css';
+import '../css/NAVBAR.css';
 import Scroll from 'react-scroll';
 const ScrollLink = Scroll.Link;
 
 
 
-const NavBar = () => {
+const NAVBAR = () => {
 
     return (
         <nav className="navbar navbar-default navbar-expand-lg bg-dark navbar-dark sticky-top mx-auto">
@@ -37,4 +37,4 @@ const NavBar = () => {
     );
 };
 
-export default NavBar;
+export default NAVBAR;

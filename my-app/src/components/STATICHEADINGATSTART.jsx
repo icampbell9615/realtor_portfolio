@@ -1,10 +1,10 @@
 import React from 'react';
-import '../css/Static_Heading_At_Start.css';
+import '../css/STATICHEADINGATSTART.css';
 
 
 
 
-const STATIC_HEADING = (props) => {
+const STATICHEADING = (props) => {
     return (
         <React.Fragment>
             <h2 className="text-left font-weight-bold font-size">{props.title}</h2>
@@ -15,4 +15,4 @@ const STATIC_HEADING = (props) => {
     );
 };
 
-export default STATIC_HEADING;
+export default STATICHEADING;

@@ -1,12 +1,12 @@
 import React from 'react';
-import '../css/Header.css';
-import NavBar from "./Navbar";
+import '../css/HEADER.css';
+import NavBar from "./NAVBAR";
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import { Element } from 'react-scroll';
 
 
-const Header = () => {
+const HEADER = () => {
     return (
         <React.Fragment>
        <Element id='Home' name='Home'>
@@ -81,4 +81,4 @@ const Header = () => {
     );
 };
 
-export default Header;
+export default HEADER;

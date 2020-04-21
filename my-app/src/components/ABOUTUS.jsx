@@ -1,13 +1,13 @@
 import React from 'react';
-import '../css/About_Us.css';
-import '../css/Services.css';
-import {PICTURE} from './Picture_Slide_In';
+import '../css/ABOUTUS.css';
+import '../css/SERVICES.css';
+import {PICTURE} from './PICTURESLIDEIN';
 import {AnimatedOnScroll} from "react-animated-css-onscroll";
 import { Element } from 'react-scroll';
 
 
 
-const ABOUT_US = () => {
+const ABOUTUS = () => {
     return (
         <React.Fragment>
             <Element id='AboutUs' name='AboutUs'>
@@ -43,4 +43,4 @@ const ABOUT_US = () => {
     );
 };
 
-export default ABOUT_US;
+export default ABOUTUS;

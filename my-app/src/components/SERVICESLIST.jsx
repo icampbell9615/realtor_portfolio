@@ -1,9 +1,9 @@
 import React from 'react';
-import '../css/Services.css';
+import '../css/SERVICES.css';
 
 
 
-function SERVICES_LIST (props) {
+function SERVICESLIST (props) {
     return (
         <React.Fragment>
             <div className="col-md-6 mt-1 mb-2 col-sm-6 col-lg-12">
@@ -23,4 +23,4 @@ function SERVICES_LIST (props) {
     );
 };
 
-export default SERVICES_LIST;
+export default SERVICESLIST;
