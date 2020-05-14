@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/realtor_portfolio/static/css/main.78401c9c.chunk.css",
+    "main.js": "/realtor_portfolio/static/js/main.19c60448.chunk.js",
+    "main.js.map": "/realtor_portfolio/static/js/main.19c60448.chunk.js.map",
+    "runtime-main.js": "/realtor_portfolio/static/js/runtime-main.135c4d1d.js",
+    "runtime-main.js.map": "/realtor_portfolio/static/js/runtime-main.135c4d1d.js.map",
+    "static/css/2.07826391.chunk.css": "/realtor_portfolio/static/css/2.07826391.chunk.css",
+    "static/js/2.51272fd1.chunk.js": "/realtor_portfolio/static/js/2.51272fd1.chunk.js",
+    "static/js/2.51272fd1.chunk.js.map": "/realtor_portfolio/static/js/2.51272fd1.chunk.js.map",
+    "index.html": "/realtor_portfolio/index.html",
+    "precache-manifest.a19ab31a1061b081cf25ae4bc13a858b.js": "/realtor_portfolio/precache-manifest.a19ab31a1061b081cf25ae4bc13a858b.js",
+    "service-worker.js": "/realtor_portfolio/service-worker.js",
+    "static/css/2.07826391.chunk.css.map": "/realtor_portfolio/static/css/2.07826391.chunk.css.map",
+    "static/css/main.78401c9c.chunk.css.map": "/realtor_portfolio/static/css/main.78401c9c.chunk.css.map",
+    "static/js/2.51272fd1.chunk.js.LICENSE.txt": "/realtor_portfolio/static/js/2.51272fd1.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/realtor_portfolio/static/media/1.304ef2c6.jpg",
+    "static/media/2.jpg": "/realtor_portfolio/static/media/2.afff3fa5.jpg",
+    "static/media/3.jpg": "/realtor_portfolio/static/media/3.5d9e04cb.jpg",
+    "static/media/4.jpg": "/realtor_portfolio/static/media/4.ee172335.jpg",
+    "static/media/5.jpg": "/realtor_portfolio/static/media/5.abfeb95a.jpg",
+    "static/media/About_us.svg": "/realtor_portfolio/static/media/About_us.acaa9e14.svg",
+    "static/media/contact2.svg": "/realtor_portfolio/static/media/contact2.681e9cb2.svg",
+    "static/media/favorite.png": "/realtor_portfolio/static/media/favorite.3cb4dc68.png",
+    "static/media/h1.jpeg": "/realtor_portfolio/static/media/h1.13ca1ab1.jpeg",
+    "static/media/h2.jpeg": "/realtor_portfolio/static/media/h2.27de2ccc.jpeg",
+    "static/media/h3.jpeg": "/realtor_portfolio/static/media/h3.31c1f8ad.jpeg",
+    "static/media/h4.jpeg": "/realtor_portfolio/static/media/h4.25db9274.jpeg",
+    "static/media/question.png": "/realtor_portfolio/static/media/question.c61c5837.png",
+    "static/media/redesign.png": "/realtor_portfolio/static/media/redesign.740c5e66.png",
+    "static/media/responsive.png": "/realtor_portfolio/static/media/responsive.0422b0f6.png",
+    "static/media/styles.css": "/realtor_portfolio/static/media/revicons.2feb69cc.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.135c4d1d.js",
+    "static/css/2.07826391.chunk.css",
+    "static/js/2.51272fd1.chunk.js",
+    "static/css/main.78401c9c.chunk.css",
+    "static/js/main.19c60448.chunk.js"
+  ]
+}
